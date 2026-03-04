@@ -1,57 +1,42 @@
-<h1 align="left">
+<h1 align="center">
   <img src="img/header.svg" alt="Full-Stack Developer en evolución | Frontend · Backend · Testing" />
 </h1>
 
 ###
 
-<h3 align="center">Desarrollador full-stack en evolución — construyo soluciones web prácticas y mantenibles. Proactivo, polivalente y orientado al detalle; enfocado en calidad, testing y mejora continua.</h3>
+<h3 align="center"><i>Desarrollador full-stack en evolución — construyo soluciones web prácticas y mantenibles. Proactivo, polivalente y orientado al detalle; enfocado en calidad, testing y mejora continua. Me apasiona el aprendizaje constante de nuevas tecnologías y la resolución de problemas mediante código limpio, siempre buscando la eficiencia en cada proyecto que emprendo.</i></h3>
+
+<br/>
+
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+
+<h3 align="center">💻 Frontend</h3>
 
 <p align="center">
-  <img src="img/line.svg" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,figma,vue" />
 </p>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeremijesus9&show_icons=true&theme=transparent&title_color=3386FF&icon_color=3386FF&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeremijesus9&layout=compact&theme=transparent&title_color=3386FF&text_color=ffffff" height="170" />
-</div>
+<h3 align="center">⚙️ Backend & DB</h3>
 
 <p align="center">
-  <img src="img/line.svg" width="100%" />
+  <img src="https://skillicons.dev/icons?i=py,java,nodejs,docker,mongodb" />
 </p>
 
-## 🛠️ Tecnologías y Herramientas
-
-### 💻 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,figma" />
-</p>
-
-### ⚙️ Backend & DB
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,nodejs,docker" />
-</p>
+<h3 align="center">🤖 Automatización</h3>
 
 <p align="center">
-  <img src="img/line.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="30" alt="n8n logo" />
+  <img width="5" />
+  <img src="img/powerautomate.png" height="30" alt="power automate logo" />
 </p>
 
-## 🕹️ Actividad
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<h3 align="center">🧪 Testing</h3>
 
 <p align="center">
-  <img src="img/line.svg" width="100%" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
 </p>
+
+<br/>
 
 ## 📩 Contacto
 
@@ -67,8 +52,20 @@
   </a>
 </div>
 
+<br/>
+
+## 🕹️ Actividad
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yeremijesus9/yeremijesus9/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:yeremijesus9?theme=minecraft&padding=4&offset=2&scale=1&align=bottom&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@:yeremijesus9?theme=minecraft&padding=6&offset=2&scale=1&align=bottom&pixelated=1&darkmode=auto" />
 </div>
