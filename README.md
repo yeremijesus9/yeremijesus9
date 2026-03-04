@@ -13,8 +13,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeremijesus9&show_icons=true&theme=react&hide_border=true&title_color=3386FF&icon_color=3386FF&text_color=ffffff&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeremijesus9&layout=compact&theme=react&hide_border=true&title_color=3386FF&text_color=ffffff&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeremijesus9&show_icons=true&theme=transparent&title_color=3386FF&icon_color=3386FF&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeremijesus9&layout=compact&theme=transparent&title_color=3386FF&text_color=ffffff" height="170" />
 </div>
 
 <p align="center">
