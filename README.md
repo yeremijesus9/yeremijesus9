@@ -25,9 +25,9 @@
 <h3 align="center">🤖 Automatización</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="30" alt="n8n logo" />
+  <img src="img/n8n.svg" height="30" alt="n8n logo" />
   <img width="5" />
-  <img src="img/powerautomate.png" height="30" alt="power automate logo" />
+  <img src="img/power.svg" height="30" alt="power automate logo" />
 </p>
 
 <h3 align="center">🧪 Testing</h3>
